@@ -1,8 +1,8 @@
 Launch Windows Command Prompt
 
 
-CertUtil -hashfile C:\\directory\file.ext MD5    [Replace C:\\directory\file.ext with your actual file directory: this will hash file to MD5]
+CertUtil -hashfile C:\\directory\file.ext MD5    [Replace C:\\directory\file.ext with your actual file directory plus file extension: this will hash file to MD5]
 
-CertUtil -hashfile C:\\directory\file.ext SHA1    [Replace C:\\directory\file.ext with your actual file directory: this will hash file to SHA1]
+CertUtil -hashfile C:\\directory\file.ext SHA1    [Replace C:\\directory\file.ext with your actual file directory plus file extension: this will hash file to SHA1]
 
-CertUtil -hashfile C:\\directory\file.ext SHA256    [Replace C:\\directory\file.ext with your actual file directory: this will hash file to SHA256]
+CertUtil -hashfile C:\\directory\file.ext SHA256    [Replace C:\\directory\file.ext with your actual file directory plus file extension: this will hash file to SHA256]
